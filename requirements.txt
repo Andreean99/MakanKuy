@@ -1,0 +1,9 @@
+waitress
+flask
+pandas
+gensim
+nltk
+pysastrawi
+wordcloud
+streamlit
+pillow
